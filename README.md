@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Waqar Ahmed</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about Open Source & FinTech</h3>
 
+- I'm currently working with **MERN web apps with Three.js, GSAP and other animation technologies..**
+
 - 🌱 I’m currently learning **MERN**
+
+- I’m looking to collaborate **on Open source projects.**
+
+- I’m looking for help with **Collaboration in Prjects**
 
 - 💬 Ask me about **React, Express, MongoDB, Node.js, Trading Automatio**
 
